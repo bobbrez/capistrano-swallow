@@ -25,7 +25,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency "capistrano-rbenv"
   spec.add_dependency "capistrano-shared_file"
   spec.add_dependency "capistrano-lazy-assets"
-  spec.add_dependency "capistrano-deploytags"
   spec.add_dependency "capistrano-deployinfo"
   spec.add_dependency "capistrano-logs"
 end
