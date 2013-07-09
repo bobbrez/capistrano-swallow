@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = CapistranoSwallow::VERSION
   spec.authors       = ["Bob Breznak"]
   spec.email         = ["bob.breznak@gmail.com"]
-  spec.description   = %q{An opinionated meta-gem that adds plugins to Capistrano}
-  spec.summary       = %q{An opinionated meta-gem that adds plugins to Capistrano}
-  spec.homepage      = ""
+  spec.description   = %q{An opinionated meta-gem that adds plugins to Capistrano for Rails}
+  spec.summary       = %q{An opinionated meta-gem that adds plugins to Capistrano for Rails}
+  spec.homepage      = "https://github.com/bobbrez/capistrano-swallow"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
@@ -27,4 +27,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "capistrano-lazy-assets"
   spec.add_dependency "capistrano-deployinfo"
   spec.add_dependency "capistrano-logs"
+  spec.add_dependency "capistrano-seed"
 end

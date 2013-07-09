@@ -5,6 +5,7 @@ require 'capistrano/shared_file'
 require 'capistrano-lazy-assets'
 require 'capistrano-deployinfo'
 require 'capistrano-logs'
+require 'capistrano-seed'
 
 module CapistranoSwallow
 
