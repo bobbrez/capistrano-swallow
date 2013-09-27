@@ -6,6 +6,7 @@ require 'capistrano-lazy-assets'
 require 'capistrano-deployinfo'
 require 'capistrano-logs'
 require 'capistrano-seed'
+require 'capistrano-console'
 
 module CapistranoSwallow
 

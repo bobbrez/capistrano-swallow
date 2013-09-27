@@ -28,4 +28,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "capistrano-deployinfo"
   spec.add_dependency "capistrano-logs"
   spec.add_dependency "capistrano-seed"
+  spec.add_dependency "capistrano-console"
 end
