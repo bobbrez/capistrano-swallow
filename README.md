@@ -38,10 +38,7 @@ the new goodies that you've got. You can do this with `$ cap -T`
 * [capistrano-deployinfo](http://github.com/bobbrez/capistrano-deployinfo)
 * [capistrano-logs](http://github.com/bobbrez/capistrano-logs)
 
-## Contributing
+## Authors
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+*[Bob Breznak](https://github.com/bobbrez)
+*[Andrew Hammond](https://github.com/andrhamm)
