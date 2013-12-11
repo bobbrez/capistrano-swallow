@@ -40,5 +40,5 @@ the new goodies that you've got. You can do this with `$ cap -T`
 
 ## Authors
 
-*[Bob Breznak](https://github.com/bobbrez)
-*[Andrew Hammond](https://github.com/andrhamm)
+* [Bob Breznak](https://github.com/bobbrez)
+* [Andrew Hammond](https://github.com/andrhamm)
