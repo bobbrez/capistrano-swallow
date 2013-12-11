@@ -7,6 +7,7 @@ require 'capistrano-deployinfo'
 require 'capistrano-logs'
 require 'capistrano-seed'
 require 'capistrano-console'
+require 'capistrano-detect-migrations'
 
 module CapistranoSwallow
 

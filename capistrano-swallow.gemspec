@@ -29,4 +29,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "capistrano-logs"
   spec.add_dependency "capistrano-seed"
   spec.add_dependency "capistrano-console"
+  spec.add_dependency "capistrano-detect-migrations"
 end
